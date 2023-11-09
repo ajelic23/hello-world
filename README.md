@@ -12,3 +12,7 @@ ovdje ce biti osnove vezane za commitanje promjena
 # Objava sadržaja uzu pomoć GitHub Pages
 
 Ovdje ce biti upute vezane za objavu sadržaja repozitorija na webu.
+
+# Test datoteka
+
+[Poveznica na test.md datoteku](test.md)
